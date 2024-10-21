@@ -47,7 +47,6 @@
     "test": "mocha"
   },
   "dependencies": {
-    "concat-stream": "^1.5.2",
     "diacritics-map": "^0.1.0",
     "gray-matter": "^3.1.1",
     "list-item": "^1.1.1",
