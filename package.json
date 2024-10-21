@@ -1,9 +1,9 @@
 {
-  "name": "markdown-toc-unlazy",
+  "name": "jabin-markdown-toc-unlazy",
   "description": "Generate a markdown TOC (table of contents) with Remarkable.",
   "version": "1.0.1",
-  "homepage": "https://github.com/jonschlinkert/markdown-toc",
-  "author": "Zain Imran",
+  "homepage": "https://github.com/jabin0818/markdown-toc-unlazy",
+  "author": "Jabin",
   "contributors": [
     "=^._.^= (http://maxogden.com)",
     "Andrés (http://angrykoala.github.io)",
@@ -26,7 +26,10 @@
     "(https://github.com/lu22do)",
     "Zeke Sikelianos (http://zeke.sikelianos.com)"
   ],
-  "repository": "jonschlinkert/markdown-toc",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/jabin0818/markdown-toc-unlazy"
+  },
   "bugs": {
     "url": "https://github.com/jonschlinkert/markdown-toc/issues"
   },
